@@ -1,7 +1,7 @@
 # Validacion cruzada agrupada por 84 encuadres visuales estimados.
 # NO usar test para seleccionar modelo o hiperparametros.
-#path: /home/facebron/cross_val_gatos/
-path: /yolo
+path: /home/facebron/cross_val_cats
+#path: /yolo
 train:
   - images/fold_2
   - images/fold_3

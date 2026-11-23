@@ -15,6 +15,8 @@ For weight freezing, only iteration 1 was used, with training performed for 5 ep
 
 `/freeze23` contains the `last.pt` file obtained using `itera_1.yaml`, with the first 23 layers of the model frozen.
 
+"/relay10 contains the `last.pt` file obtained using `/raplay10/dataset.yaml`, wint the 10 % of COCO 2017 classes cat, dog, bear, cow
+
 
 
 
